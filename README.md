@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Esuyawkal Fentahun</h1>
-<h3 align="center">A junior fullstack developer</h3>
+<h3 align="center">A fullstack Engineer || MERN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esuyawkal1&label=Profile%20views&color=0e75b6&style=flat" alt="esuyawkal1" /> </p>
 
-- 🔭 I’m currently working on **LMS**
+- 🔭 I’m currently working on **Final year project**
 
-- 🌱 I’m currently learning **advanced react, next.js,laravel**
+- 🌱 I’m currently learning **advanced MERN stack**
 
 - 💬 Ask me about **react, laravel and Node.js**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/esuyawkal-fentahun-b63678415?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esuyawkal-fentahun-b63678415?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/linkesuyawkal-dev utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esuyawkal-fentahun-b63678415?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
 <a href="https://instagram.com/isuyawkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isuyawkal" height="30" width="40" /></a>
 </p>
 
