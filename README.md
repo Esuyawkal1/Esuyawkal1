@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, laravel and Node.js**
 
-- 📫 How to reach me **esuyawkal.fentahun@gmail.com**
+- 📫 How to reach me **esu-portfolio.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
